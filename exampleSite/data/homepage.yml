@@ -2,8 +2,7 @@
 banner:
   enable: true
   title: Startup Monachelle
-  content: Solving the problems of today to see a tomorrow worth living and a past
-    worth remembering.
+  content: Progetto di riqualificazione di Monachelle Bene Comune a Pozzuoli
   image: "/images/facciata-monachelle.jpg"
   button:
     enable: true

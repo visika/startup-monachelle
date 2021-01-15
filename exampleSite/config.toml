@@ -54,11 +54,3 @@ title = "twitter"
 icon = "fa-instagram"
 link = "https://www.instagram.com/exmonachelle/"
 title = "instagram"
-[[params.social]]
-icon = "fa-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "fa-linkedin"
-link = "#"
-title = "linkedin"

@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: WHAT WE DO
-    target: "#mission"
+    link: "mission"
 mission:
   enable: true
   title: Verso un futuro partecipato

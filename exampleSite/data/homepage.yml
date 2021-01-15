@@ -10,12 +10,12 @@ banner:
     link: "#mission"
 mission:
   enable: true
-  title: Propel Advancement
+  title: Verso un futuro partecipato
   section: MISSION
-  content: Introducing the world’s first Advancement Company. As we enter the dawn
-    of the digital age a significant leap must be made to propel the world into the
-    age of advancement.
-  video_thumb: images/video-thumb.jpg
+  content: Presentiamo il progetto di riqualificazione dal basso dell'ex Asilo Vittorio
+    Emanuele III. Partecipa al processo di trasformazione urbana, verso una realtà
+    più a misura d'uomo e vicina alle esigenze locali.
+  video_thumb: images/veduta_monachelle.jpg
   video_id: ResipmZmpDU
 vision:
   enable: true

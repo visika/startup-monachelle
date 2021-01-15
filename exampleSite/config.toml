@@ -25,10 +25,10 @@ name = "Contact"
 pre = "#"
 weight = 4
 [params]
-author = "Themefisher"
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
-description = "This is meta description"
-logo = "images/logo.png"
+author = "Comunità Monachelle"
+contact_info = "Via Raimondo Annecchino, 123M<br>Pozzuoli, NA<br>80078 ITALIA"
+description = "Progetto di riqualificazione di Monachelle Bene Comune a Pozzuoli"
+logo = "images/logo_monachelle.png"
 logo_width = "120px"
 preloader = true
 [params.cookies]

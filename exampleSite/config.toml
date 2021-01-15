@@ -48,7 +48,7 @@ link = "https://www.facebook.com/comitatoexconvittoMONACHELLE"
 title = "facebook"
 [[params.social]]
 icon = "fa-twitter"
-link = "#"
+link = "https://twitter.com/exmonachelle"
 title = "twitter"
 [[params.social]]
 icon = "fa-instagram"

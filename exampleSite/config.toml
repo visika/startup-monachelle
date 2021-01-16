@@ -11,7 +11,7 @@ pre = "#"
 weight = 1
 [[menu.main]]
 URL = "products"
-name = "Products"
+name = "Projects"
 pre = "#"
 weight = 2
 [[menu.main]]

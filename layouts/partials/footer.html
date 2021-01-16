@@ -1,8 +1,3 @@
-{{ "<!-- Google Map API -->" | safeHTML }}
-{{ with site.Params.map.gmap_api }}
-<!-- <script src="{{ . | safeURL }}"></script> -->
-{{ end }}
-
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>

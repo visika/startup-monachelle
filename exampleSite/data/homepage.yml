@@ -40,11 +40,12 @@ product:
     sociale al territorio, accanto alla sostenibilità economica. Di seguito puoi trovare
     gli ultimi progetti sviluppati e le risorse per dare il tuo contributo.
   product_item:
-  - title: Ecosystem
+  - title: Ecosistema
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
-    project_url: "#"
+    content: L'ex Asilo si colloca nel panorama socio-culturale complesso dei Campi
+      Flegrei. Le possibilità di integrazione con l'ambiente circostante sono potenzialmente
+      infinite.
+    project_url: https://www.monachelle.org/2020/09/14/comitato-di-scopo-monachelle/
   - title: Objects
     image: images/product/product-02.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.

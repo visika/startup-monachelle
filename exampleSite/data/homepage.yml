@@ -33,11 +33,12 @@ vision:
       cultura e della solidarietà dei Campi Flegrei
 product:
   enable: true
-  section: Products
-  title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  section: Projects
+  title: I nostri progetti dal basso
+  content: Osserva i progetti innovativi che provengono dalle professionalità locali.
+    In quanto progetto collettivo, l'obiettivo è di restituire il massimo capitale
+    sociale al territorio, accanto alla sostenibilità economica. Di seguito puoi trovare
+    gli ultimi progetti sviluppati e le risorse per dare il tuo contributo.
   product_item:
   - title: Ecosystem
     image: images/product/product-03.jpg

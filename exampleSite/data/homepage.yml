@@ -67,7 +67,7 @@ contact:
     dal possibile al probabile.
 call_to_action:
   enable: true
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
-  button_label: Apply Now
+  title: Unisciti a noi.<br>Clicca sotto per conoscere le professionalità di cui abbiamo
+    bisogno.
+  button_label: Contribuisci
   button_link: career

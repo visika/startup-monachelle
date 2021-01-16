@@ -17,6 +17,7 @@ mission:
     più a misura d'uomo e vicina alle esigenze locali.
   video_thumb: images/veduta_monachelle.jpg
   video_id: ce79b252-0783-4052-a8ea-8677f6b439fc
+  back_image: "/images/scale.jpg"
 vision:
   enable: true
   section: VISION
@@ -39,6 +40,7 @@ product:
     In quanto progetto collettivo, l'obiettivo è di restituire il massimo capitale
     sociale al territorio, accanto alla sostenibilità economica. Di seguito puoi trovare
     gli ultimi progetti sviluppati e le risorse per dare il tuo contributo.
+  back_image: images/danza.jpg
   product_item:
   - title: Ecosistema
     image: images/product/product-03.jpg

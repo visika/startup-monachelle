@@ -58,13 +58,13 @@ product:
     project_url: "#"
 contact:
   enable: true
-  section: CONTACT US
-  title: reach us
+  section: Contattaci
+  title: Unisciti a noi
   image: images/map-bg.jpg
-  content: The dawn of the digital age and the need for a significant leap forward
-    is here. We believe that every business has the opportunity to move into this
-    new age with the right mindset. Contact us today to begin understanding how Omega
-    can propel your business.
+  content: L'era dei Beni Comuni è appena iniziata e c'è un mondo di possibilità ancora
+    da esplorare. Crediamo che ogni luogo abbia l'opportunità di partecipare a questo
+    movimento con il giusto approccio. Sostienici oggi per iniziare la transizione
+    dal possibile al probabile.
 call_to_action:
   enable: true
   title: Join the Omega family. <br>Click below to view the career opportunities we

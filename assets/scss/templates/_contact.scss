@@ -1,17 +1,17 @@
 .contact{
     position: relative;
     padding-top: 180px;
-    margin-bottom: 495px;
+    margin-bottom: 200px;
     z-index: 1;
     @include desktop{
         padding-top: 100px;
-        margin-bottom: 335px;
+        margin-bottom: 200px;
     }
     @include tablet{
         padding-top: 70px;
     }
     @include mobile{
-        margin-bottom: 320px;
+        margin-bottom: 100px;
     }
     .section-title{
         position: absolute;

@@ -27,10 +27,10 @@ vision:
   - title: Cultura della condivisione
     image: images/vision/vision-02.jpg
     content: Un bene pubblico può essere gestito pubblicamente, cioè dalla cittadinanza
-  - title: The Omega Way
+  - title: La strada giusta
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Un progetto per trasformare un luogo abbandonato nel cuore pulsante della
+      cultura e della solidarietà dei Campi Flegrei
 product:
   enable: true
   section: Products

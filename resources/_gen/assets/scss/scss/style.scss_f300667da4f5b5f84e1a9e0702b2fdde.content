@@ -10095,18 +10095,18 @@ body {
 .contact {
   position: relative;
   padding-top: 180px;
-  margin-bottom: 495px;
+  margin-bottom: 100px;
   z-index: 1; }
   @media (max-width: 991px) {
     .contact {
       padding-top: 100px;
-      margin-bottom: 335px; } }
+      margin-bottom: 100px; } }
   @media (max-width: 767px) {
     .contact {
       padding-top: 70px; } }
   @media (max-width: 575px) {
     .contact {
-      margin-bottom: 320px; } }
+      margin-bottom: 100px; } }
   .contact .section-title {
     position: absolute;
     z-index: 3;
@@ -10144,7 +10144,7 @@ body {
         margin-bottom: 150px; } }
     @media (max-width: 575px) {
       .contact .text-block {
-        margin-bottom: 50px; } }
+        margin-bottom: 75px; } }
     .contact .text-block h2 {
       position: relative;
       margin-bottom: 42px;
@@ -10187,6 +10187,10 @@ body {
     @media (max-width: 991px) {
       .map-div #map {
         height: 400px; } }
+    @media (max-width: 767px) {
+      .map-div #map {
+        position: relative;
+        top: 14em; } }
   .map-div .office {
     position: absolute;
     top: 0;
@@ -10196,18 +10200,17 @@ body {
         top: 0;
         left: 50%;
         transform: translate(-50%, -90px); } }
-    @media (max-width: 575px) {
-      .map-div .office {
-        display: none; } }
     .map-div .office .contents {
       max-width: 690px;
-      position: relative; }
+      position: relative;
+      background: black; }
       @media (max-width: 991px) {
         .map-div .office .contents {
           width: 500px;
           margin-top: 30px; } }
       .map-div .office .contents img {
-        width: 100%; }
+        width: 100%;
+        opacity: 0.4; }
       .map-div .office .contents .address {
         position: absolute;
         bottom: 0;
@@ -10216,6 +10219,11 @@ body {
           font-size: 30px;
           line-height: 35px;
           margin-bottom: 30px; }
+          @media (max-width: 767px) {
+            .map-div .office .contents .address h2 {
+              font-size: 20px;
+              line-height: 25px;
+              margin-bottom: 20px; } }
         .map-div .office .contents .address ul.social-list li a {
           height: 50px;
           width: 50px;
@@ -10408,13 +10416,9 @@ ul.social-list li a {
 
 .footer {
   padding: 150px 0;
-  position: fixed;
   bottom: 0;
   width: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  background: #FF1D5D;
-  display: none; }
+  background: #FF1D5D; }
   @media (max-width: 991px) {
     .footer {
       padding: 80px 0; } }

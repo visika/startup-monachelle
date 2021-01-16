@@ -1,11 +1,11 @@
 .contact{
     position: relative;
     padding-top: 180px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     z-index: 1;
     @include desktop{
         padding-top: 100px;
-        margin-bottom: 200px;
+        margin-bottom: 100px;
     }
     @include tablet{
         padding-top: 70px;

@@ -4,11 +4,31 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Homepage
+- type: document
+  path: data/homepage.yml
+  label: Homepage
+- type: heading
+  label: Career
+- type: document
+  path: content/career.md
+  label: Career
+- type: heading
+  label: All Pages
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
+- type: heading
+  label: Configuration
+- type: directory
+  path: /
+  label: Configuration
+  create: all
+  match: "*.toml"
+  new_doc_ext: toml
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''

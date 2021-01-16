@@ -103,7 +103,7 @@
         @include desktop{
             height: 400px;
         }
-        @include mobile{
+        @include tablet{
             position: relative;
             top: 14em;
         }

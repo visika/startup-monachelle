@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: WHAT WE DO
-    link: "mission"
+    link: mission
 mission:
   enable: true
   title: Verso un futuro partecipato
@@ -21,10 +21,9 @@ vision:
   enable: true
   section: VISION
   vision_item:
-  - title: People First
+  - title: Un luogo delle persone
     image: images/vision/vision-01.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Vediamo un futuro in cui tutti possano beneficiare dei Beni Comuni
   - title: Employee Culture
     image: images/vision/vision-02.jpg
     content: I started with a vision of creating an atmosphere where people come first.

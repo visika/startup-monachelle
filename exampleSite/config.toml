@@ -29,13 +29,13 @@ author = "Comunità Monachelle"
 contact_info = "Via Raimondo Annecchino, 123M<br>Pozzuoli, NA<br>80078 ITALIA"
 description = "Progetto di riqualificazione di Monachelle Bene Comune a Pozzuoli"
 logo = "images/logo_monachelle.png"
-logo_width = "120px"
+logo_width = "100px"
 preloader = true
 [params.cookies]
 enable = true
 expire_days = 2
 [params.map]
-enable = false
+enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
 map_center_lat = "25.773606"
 map_center_lng = "-80.732655"

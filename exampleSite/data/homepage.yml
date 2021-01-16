@@ -43,11 +43,11 @@ product:
   back_image: images/danza.jpg
   product_item:
   - title: Ecosistema
-    image: images/product/product-03.jpg
+    image: images/product/progetto-01.png
     content: L'ex Asilo si colloca nel panorama socio-culturale complesso dei Campi
       Flegrei. Le possibilità di integrazione con l'ambiente circostante sono potenzialmente
       infinite.
-    project_url: https://www.monachelle.org/2020/09/14/comitato-di-scopo-monachelle/
+    project_url: https://www.monachelle.org/wp-content/uploads/2020/09/presentazione%2016%20settembre.pdf
   - title: Struttura
     image: images/product/product-02.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
@@ -55,9 +55,10 @@ product:
     project_url: "#"
   - title: Amministrazione
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
-    project_url: "#"
+    content: Il Comitato di Scopo Monachelle è l'organo garante per il progetto,
+      supervisore e collettore di idee. Fondato nel 2020, promuove di fronte alle
+      amministrazioni locali la realizzazione dell'opera.
+    project_url: https://www.monachelle.org/2020/09/14/comitato-di-scopo-monachelle/
 contact:
   enable: true
   section: Contattaci

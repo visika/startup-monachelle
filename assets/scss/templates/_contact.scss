@@ -113,9 +113,9 @@
                 left: 50%;
                 transform: translate(-50%, -90px);
         }
-        @include mobile{
-            display: none;
-        }
+        // @include mobile{
+        //     display: none;
+        // }
         .contents{
             max-width: 690px;
             position: relative;
